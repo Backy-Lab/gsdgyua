@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1759932228 source:c:\users\karti\onedrive\documents\c++ programming\bankmanagementsys\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<limits>
+
