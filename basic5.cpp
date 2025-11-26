@@ -9,3 +9,4 @@ c=(32*a-32)*5/9;
 cout<<"Temperature in celcius is :"<<c <<endl;
 return 0;
 }
+
